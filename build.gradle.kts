@@ -26,7 +26,7 @@ dependencies {
 // Read more: https://plugins.jetbrains.com/docs/intellij/tools-gradle-intellij-plugin.html
 intellij {
     pluginName.set("EmmyLua-Unity")
-    version.set("2022.2")
+    version.set("2022.3")
     type.set("IC") // Target IDE Platform
 
     plugins.set(listOf("com.tang:1.3.8-IDEA223"))
