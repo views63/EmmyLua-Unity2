@@ -29,7 +29,7 @@ intellij {
     version.set("2022.2")
     type.set("IC") // Target IDE Platform
 
-    plugins.set(listOf("com.tang:1.3.7.2-IDEA222"))
+    plugins.set(listOf("com.tang:1.3.8-IDEA223"))
 }
 
 task("downloadLs", type = Download::class) {
